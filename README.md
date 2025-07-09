@@ -50,5 +50,8 @@ Modifiez les variables en haut du script pour changer le nom du serveur, du clie
 Ce script est destiné à un usage personnel ou pour des tests. Pour une utilisation en production, adaptez la configuration à vos besoins de sécurité.
 
 ---
+## OPENVPN DOC
+
+https://openvpn.net/community-resources/reference-manual-for-openvpn-2-4/
 
 *Script fourni à titre d’exemple, sans garantie.*
